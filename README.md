@@ -1159,6 +1159,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [Reframer](https://www.optimalworkshop.com/reframer) — a research tool that helps your team to capture, tag (code) and identify patterns in qualitative data across multiple research participants.
 - [Sticktail](https://sticktailapp.com/) — a platform for centralizing, finding and sharing user insights within your organization.
 - [Survey Monkey](https://www.surveymonkey.com/) — online survey tool to capture the voices and opinions of the people who matter most to you.
+- [SurveyNoodle](https://surveynoodle.com/) - capture feedback when it matters most with SurveyNoodle.
 - [Typeform](https://www.typeform.com/) — use a simple drag-and-drop interface to create any kind of form, survey, or questionnaire, and even take credit card payments.
 - [Wufoo](https://www.wufoo.com) — сreate forms, collect data and payments and automate your workflows.
 - [YesInsights](https://www.yesinsights.com/) — simple one question and NPS surveys to improve your business.

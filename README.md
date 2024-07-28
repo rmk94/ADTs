@@ -1167,7 +1167,6 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [User Interviews](https://www.userinterviews.com/) — recruit participants from a community of 125,000 members based on profession, demographics, geography and more, for any kind of research.
 - [Zoom](https://zoom.us) — it's one of the best online meeting services.
 
-
 </article>
 
 <article id="visual-debugging-tools">
